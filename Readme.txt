@@ -12,7 +12,7 @@ Supports pagination to scrape multiple pages of Google News results.
 
 How to Use
 1. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/sofienborsali/GetNews.git
 cd your-repository-name
 2. Install Required Libraries
 Make sure you have Python installed. Then, install the required libraries using pip:
